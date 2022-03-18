@@ -12,7 +12,7 @@ This repository provides the jupyter notebook version of [PyTorch](https://pytor
 ## Results
 The current results for CIFAR-10 classification is summarized below.
 
-### CIFAR-10 (Top-1 accuracy (%))
+#### CIFAR-10 (Top-1 accuracy (%))
 Models         | Training          | Test              |
 -------------  | ----------------- | ----------------- |
 ResNet50       | 99.83             | 92.55             |
