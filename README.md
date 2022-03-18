@@ -20,3 +20,4 @@ ResNet50-BAM   | 99.84             | 93.99             |
 
 ## Reference
 [Official PyTorch code](https://github.com/Jongchan/attention-module)
+[Unofficial PyTorch code](https://github.com/asdf2kr/BAM-CBAM-pytorch)
